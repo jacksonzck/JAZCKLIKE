@@ -11,4 +11,12 @@
 
 ## General Design for Implementation
 
+ - Do it in rust
+ - Use sandboxed lua for all of the user generated code
+ - + like "default" components and whatnot. 
+ - Except outside of maybe XML for meta-information?
+ - But they need to make an lua file anyway for the input and output generation
+ - So ehh I dunno.
 ## Other Considerations
+
+None for now!
